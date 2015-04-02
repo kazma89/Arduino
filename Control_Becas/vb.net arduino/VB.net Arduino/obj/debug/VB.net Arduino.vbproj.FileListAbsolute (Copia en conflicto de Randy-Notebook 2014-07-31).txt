@@ -1,0 +1,8 @@
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Form1.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.login.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
