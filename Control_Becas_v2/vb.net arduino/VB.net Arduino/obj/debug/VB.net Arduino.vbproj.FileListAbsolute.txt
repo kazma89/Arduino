@@ -1,0 +1,71 @@
+c:\users\r@ndy\documents\visual studio 2013\Projects\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+c:\users\r@ndy\documents\visual studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Form1.resources
+c:\users\r@ndy\documents\visual studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+c:\users\r@ndy\documents\visual studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.pdb
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbprojResolveAssemblyReference.cache
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Documents\Visual Studio 2013\Projects\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.pdb
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\bin\Debug\VB.net Arduino.xml
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbprojResolveAssemblyReference.cache
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Form1.resources
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.pdb
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.xml
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Form1.resources
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+D:\Windows 7\Dropbox\Arduino\Arduino\control_de_becas\VB.net Arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.login.resources
+C:\Users\Soporte\Desktop\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.login.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.pdb
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbprojResolveAssemblyReference.cache
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.login.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+C:\Users\R@ndy\Dropbox\Arduino\Arduino\control_de_becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.frmPrincipal.resources
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe.config
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.pdb
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbprojResolveAssemblyReference.cache
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.frmPrincipal.resources
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.login.resources
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.Resources.resources
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.GenerateResource.Cache
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.vbproj.CoreCompileInputs.cache
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.exe
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net Arduino.pdb
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.dll
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Imaging.dll
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Math.dll
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Controls.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Video.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Imaging.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\bin\Debug\AForge.Math.xml
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.previewFrm.resources
+C:\Users\R@ndy\Desktop\Control_Becas\vb.net arduino\VB.net Arduino\obj\Debug\VB.net_Arduino.tomarFotoFrm.resources
